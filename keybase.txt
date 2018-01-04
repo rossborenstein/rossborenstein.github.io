@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/rnb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://borenste.in
+  * I am rnb (https://keybase.io/rnb) on keybase.
+  * I have a public key with fingerprint 17F0 2D8B 5DD2 8CFD B7A2  7C24 2B21 ADB3 49F6 A253
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fad83bd76c5b711334875e344fb0e2014af8a065eb6fa12504bd430af499d5af0a",
+      "fingerprint": "17f02d8b5dd28cfdb7a27c242b21adb349f6a253",
+      "host": "keybase.io",
+      "key_id": "2b21adb349f6a253",
+      "kid": "0101e58a4f7d545b7380714c1417dbec55cbbe1ce01fbcb5959160fea067a4724d230a",
+      "uid": "a4b2e69f3fd7b1be7b950547baec8119",
+      "username": "rnb"
+    },
+    "service": {
+      "hostname": "borenste.in",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515103930,
+  "expire_in": 157680000,
+  "prev": "f96c7e885f5d7776975d597cb7011b120c5f3b0577c0d1e6306a47a8aeb81da8",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJtUBVVGL6AfHOF0XIaGBE3QUhq9uzu2bPLQAxFH0wOFyMVUbnu2T3L
+3fGy93I/yA/UEG0caWTAkhJzCCchFLGRMnRMICiNIkRELvlFjgSMjU1M5Axl7WX0
+X+f8OHPe93me87zveXvMQaaIgBVLW8/kzDTmB/R11XhNhbnHz22nsEPZSqVtpzaT
+uYPYFeL2WDdrCpVG0YChVUkRWKwgXoYYAcCynIAgYTlOxTRhaMBJqiDRPCSYVyXA
+QJrDCsfSksqJogIllZaoVErV9GLicro03WPIAqTSjCJgqCiMIKsKRhKDZIZjMAMk
+BbOcqPISA1mDaHO4/QzDHJbc5AXNYcSMi3XO3v/gn/imAYGCxKlIgZzhmxVoBDgZ
+cAApmMgQyhgTIBMaqFjGUIQi4GmVGHUgiUMMpzDsnG/vnJzEYYbwosqqCsIAE4RF
+SEMOYYnIAgCiH+gmLl0qIQbapWNqRyplBMo0mfh76i/icRI7XER3e4xKdIPldDk8
+DtlhNxI2j8eZ5ud5tjr9wLcJtj6WsGJNV4wGGoQy4nJrDp1KAwZS9mh+TQCNTbMi
+S6dSZItTcxGr5kdAxAu0sfzPkDJDUhV5GRFBgCpUEEK8iKACRSRjRAOAja+Wocpi
+GiIk0wogPEvzRjMkQSJYAIokUP6iSnWHoc0ZPqViQ9OtFeuSx+si1I7urg3zTAER
+ppDgQP9kmSLCY57MW6oQ/Si9LWFB2l9t+5mnTs8mnT/x2fkpvlCe6S+KYnrazfq2
+czE3VyRcUKY78y/6qLVV0U0t+wpyiuxxk/NLh9STE59mln1Z++GiDWHm1VktJbfY
+o6c7P/raltsVFxl6cKTyzvFn40+M3Hw++8htU8tAYfQP3hSmY03i99PljwbEyUjv
+xp/Mx+K3sMQzu/bp5nvCwedi7w6EVmT2texcOe65+3lXYnc2WDXAt1kCEZRN6j/X
+tOaK5Cx1SssLKT2wK+DK371TQVm5oc9sq4QHwKsv/rKp2otXpWeeae8DHy8enQm/
+v3C96dDwbOLKqoSM18LaxT+Wnb1dc6NBPBZ2idtf+Upt75Lm34bea139UE20Fflw
+alBz0ibfurrLURWZquNS353qLN+efWB31fTgz/smvjv6rX1pbMeRJF/V7x3XLPF/
+suPW8pbLG/Hit+ZbWlvHqNKw2oK8hvyUvW1FDdVXxeoHi34tbAxubbwamT30hT3v
+bOz6wZCMb9aY++s+uWK7Jyy/AYfHBuPTRWvoB0uu71kXOPr+jy+9M9FTnl9YkPLw
+uk2OHbDHjEjBSdHO0gd6/1QBX9L5ZvLySTI89FXI4V31OzNrbPfD34htGmHrFnL/
+hoq9y17OGQucudDb3dj57utxJw9dbPItqM/PKD68Nyqa8p06JVkad48Mm0f75lnG
+O25Z6sOy0pML/gNVRrbM
+=HaAU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rnb
+
+==================================================================
