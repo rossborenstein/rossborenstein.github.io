@@ -1,0 +1,19 @@
+.nametext{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:12pt;color:#000;font-weight:bold
+}
+.whitetext12{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:9pt;color:#fff;font-weight:bold
+}
+.lightbluetext8{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:8pt;color:#369;font-weight:bold
+}
+.text{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:8pt;color:#000;font-weight:normal
+}
+.orangetext15{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:9pt;color:#f60;font-weight:bold
+}
+body,td,li,p,div,textarea{
+    font-family:verdana,arial,sans-serif,helvetica;font-size:8pt;color:#000;font-weight:normal;
+}
+
